@@ -23,6 +23,8 @@ Miameeeee, mamaaaaAaAaAaaa, saca la mano de ahi carajo!!
 
 
 # PruebaGit7
+------------
+Hola gente, Vamos Talleres - C.A.T
 
 
 
@@ -31,7 +33,7 @@ Hola mundo Me Llamo Exequiel Tosas
 
 
 # PruebaGit9
-
+Bienvenido a Informatica 3
 
 
 # PruebaGit10
