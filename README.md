@@ -29,7 +29,7 @@ Hola gente, Vamos Talleres - C.A.T
 
 
 # PruebaGit8
-Hola mundo Me Llamo Exequiel Tosas
+Hola mundo Me Llamo Exequiel
 
 
 # PruebaGit9
