@@ -8,7 +8,7 @@
 
 # PruebaGit3
 
-
+Juancito y Spitale estuvieron aqui
 
 # PruebaGit4
 
@@ -19,7 +19,7 @@ Cualquier cosa
 hola como estas 
 
 # PruebaGit6
-
+Miameeeee, mamaaaaAaAaAaaa, saca la mano de ahi carajo!!
 
 
 # PruebaGit7
